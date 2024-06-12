@@ -1,0 +1,3 @@
+[submodule "package/luci-app-oled"]
+	path = package/luci-app-oled
+	url = https://github.com/wisdpi/luci-app-oled.git
